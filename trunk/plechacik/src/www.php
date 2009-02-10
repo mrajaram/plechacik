@@ -1,0 +1,416 @@
+<div class="galeria">
+	<div class="obrazok" style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;KatalÛgy&nbsp;</legend>
+					<a href="http://www.surf.sk" title="KatalÛgov˝ zoznam Internetu. Internetov˝ port·l zameran˝ najm‰ na vyhæad·vanie slovensk˝ch str·nok. Kaûd˝ m· moûnosù pridaù str·nku do systÈmu." target="_blank" class="s2">SURF.sk</a><br>
+					<a href="http://www.zoznam.sk" title="Kompletn˝ Zoznam slovenskÈho Internetu. " target="_blank" class="s2">Zoznam.sk</a><br>
+					<a href="http://www.szm.sk" title="KatalÛgovo trieden˝ zoznam slovensk˝ch str·nok na Internete." target="_blank" class="s2">Superzoznam.sk</a><br>
+					<a href="http://www.atlas.sk" title="Vysk˙öajte vyhæad·vanie cez Atlas.sk" target="_blank" class="s2">Atlas.sk</a><br>
+					<a href="http://www.centrum.sk" title="œalöÌ slovensk˝ katalÛg a vyhæad·vaË." target="_blank" class="s2">Centrum.sk</a><br>
+					<a href="http://www.seznam.cz" title="Seznam ËeskÈho internetu, hledaË Kompas." target="_blank" class="s2">Seznam.cz</a><br>
+					<a href="http://www.centrum.cz" title="Centrum.cz, zn·m˝ Ëesk˝ vyhled·vaË." target="_blank" class="s2">Centrum.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok" style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Vyhæad·vaËe&nbsp;</legend>
+					<a href="http://www.google.com/" title="Jeden z nalepöÌch celosvetov˝ch vyhæad·vaËov." target="_blank" class="s2">Google.com</a><br>
+					<a href="http://www.altavista.sk/" title="Slovensk˝ vyhæad·vacÌ a downloadovacÌ server." target="_blank" class="s2">Altavista.sk</a><br>
+					<a href="http://dunco.sk/" title="DunËo n·jde vöetko na internete!" target="_blank" class="s2">Dunco.sk</a><br>
+					<a href="http://www.google.sk/" title="Slovensk· verzia zn·meho vyhæad·vaËa." target="_blank" class="s2">Google.sk</a><br>
+					<a href="http://www.caramba.cz/" title="Internetov˝ vyhled·vaË na principu otev¯enÈho systÈmu, obsahuje peËlivÏ kontrolovanÈ odkazy na ËeskÈ i zahraniËnÌ str·nky, p¯ehledn˝ a velmi podrobn˝ katalog, vyhled·v·nÌ." target="_blank" class="s2">Caramba.cz!</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok" style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;TlaË/DennÌky&nbsp;</legend>
+					<a href="http://www.sme.sk" target="_blank" title="InternetovÈ vydanie dennÌka SME, denne up-dateovanÈ." class="s2">dennÌk SME</a><br>
+					<a href="http://www.novycas.sk" target="_blank" title="NajËÌtanejöÌ slovensk˝ dennÌk." class="s2">Nov˝ »as</a><br>
+					<a href="http://www.pravda.sk" target="_blank" title="DennÌk PRAVDA na Internete." class="s2">Pravda</a><br>
+					<a href="http://www.narodnaobroda.com" target="_blank" title="DennÌk N¡RODN¡ OBRODA na Internete." class="s2">N·rodn· obroda</a><br>
+					<a href="http://www.blesk.cz" target="_blank" title="Bulv·rnÌ zpravodajsk˝ server Blesk.cz" class="s2">Blesk</a><br>
+					<a href="http://www.mfdnes.cz" target="_blank" title="Mlad· Fronta Dnes - internetovskÈ vyd·nÌ." class="s2">MF Dnes</a><br>
+					<a href="http://www.lidovenoviny.cz" target="_blank" title="DenÌk, cel· ËÌsla v Internetu." class="s2">LidovÈ noviny</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Humor&nbsp;</legend>
+					<a href="http://www.rehot.sk" title="Vtipn˝ server. Z·bava, vtipy, z·bavnÈ obr·zky, Murphyho z·kony, texty, horoskopy, biorytmus, partnerska zhoda" class="s2" target="_blank">Rehot.sk</a><br>
+					<a href="http://www.vtipy.sk/" title="Poöli svojim kamar·tom zop·r vtipov. Humor, obr·zky, prÌbehy. Kopec z·bavy na jednom mieste." target="_blank" class="s2">Vtipy.sk</a><br>
+					<a href="http://www.funny.sk/" title="Denne aktualizovan˝ server pln˝ z·bavy. Obr·zky, vtipy, programy, anim·cie, filmy, linky." target="_blank" class="s2">Funny.sk</a><br>
+					<a href="http://www.humor.sk/" title="Kaûd˝ deÚ novÈ vtipy. Ak viete nejak˝ nov˝, nev·hajte. NapÌöte ho a doprajte z·bavu aj ostatn˝m." target="_blank" class="s2">Humor</a><br>
+					<a href="http://www.ftipky.cz/" title="SrandovnÌ SMSky, cedule, texty, obr·zky, majly, hry, leteck˝ pr˘kaz pro Ëarodejnice, pokuty pro manûelku, omluvenka z hospody." target="_blank" class="s2">ftipky.cz</A><br>
+					<a href="http://www.srandicky.cz/" title="SrandovnÌ videa, progr·mky, vtipy, obr·zky a fotomont·ûe, srandiËky v mp3, deform·tory slavn˝ch osobnostÌ, softwarov˝ halucinogen, humornÈ texty, SMS br·na." target="_blank" class="s2">SrandiËky.cz</a><br>
+					<a href="http://www.svanda.cz/" title="Vtipy, obr·zky, texty, videa, mp3, progr·mky, smsky." target="_blank" class="s2">ävanda.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Free mail&nbsp;</legend>
+					<a href="http://www.pobox.sk" target="_blank" title="Prv˝ Slovensk˝ Virtu·lny Poötov˝ ⁄rad." class="s2">Pobox.sk</a><br>
+					<a href="http://www.post.sk" target="_blank" title="Chcete maù V·ö E-mail st·le pri ruke? Potom je tu POST.sk - V·ö E-mailov˝ server !" class="s2">Post.sk</a><br>
+					<a href="http://mail.zoznam.sk" target="_blank" title="E-mail s neobmedzenou schr·nkou, POP3 a IMAP s prÌstupom zadarmo." class="s2">Zoznam.sk</a><br>
+					<a href="http://posta.szm.sk" target="_blank" title="ZÌskaj zdarma vlastn˙ poötu." class="s2">Superzoznam.sk</a><br>
+					<a href="http://www.email.cz" target="_blank" title="Email pro Ëesk˝ Internet." class="s2">Email.cz</a><br>
+					<a href="http://email.seznam.cz" target="_blank" title="E-mailov· schr·nka zdarma od Seznamu" class="s2">Seznam.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Hry&nbsp;</legend>
+					<a href="http://www.gamesland.sk/" title="Slovensk˝ hern˝ denne updateovan˝ server Gamesland. Recenzie na najnovöie hry, kaûdodennÈ news s oblasti PC hier, patch na najnovöie hry, demo na najnovöie hry." target="_blank" class="s2">GamesLand.sk</a><br>
+					<a href="http://www.sector.sk/" title="hry, DVD, programy, hardware - Najv‰ËöÌ slovensk˝ hern˝ e-zine. Denne najnovöie spr·vy zo sveta hier, DVD, filmu, hardware a software. Rozsiahla galÈria obr·zkov." target="_blank" class="s2">Sector.sk</a><br>
+					<a href="http://www.plne-hry.sk/" title="TisÌce pln˝ch hier zadarmo !!!" target="_blank" class="s2">Plne-hry.sk</a><br>
+					<a href="http://www.cestiny.cz/" title="Stovky Ëesk˝ch a slovensk˝ch p¯eklad˘ do poËÌtaËov˝ch her a program˘ na t¯ech rychl˝ch serverech umÌstÏn˝ch na p·te¯nÌ sÌti v˝znamn˝ch ISP." target="_blank" class="s2">»eötiny.cz</a><br>
+					<a href="http://www.plnehry.cz/" title="PlnÈ hry zdarma. DennÏ aktualizovan· str·nka s obs·hl˝m archivem pln˝ch her, kterÈ jsou zde nabÌzeny ke staûenÌ zcela zdarma." target="_blank" class="s2">PlnÈHry.cz</a><br>
+					<a href="http://www.onlinehry.sk/" title="Online hry a mnoho inÈho... ." target="_blank" class="s2">Onlinehry.sk</a><br>
+					<a href="http://www.1000her.cz/" title="Br·na do sveta online z·bavy." target="_blank" class="s2">1000her.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Zozn·menie&nbsp;</legend>
+					<a href="http://www.zoznamka.sk/" title="Mnoûstvo zoznamovacÌch inzer·tov, prehæadnÈ vyhæad·vanie, prid·vanie inzer·tov zadarmo."  target="_blank" class="s2">AZet.sk - Zoznamka</a><br>
+					<a href="http://www.znamost.sk/" title="Jeden z najv‰ËöÌch zoznamovacÌch serverov s prv˝m plne grafick˝m chatom na slovenskom internete."  target="_blank" class="s2">Zn·mosù</a><br>
+					<a href="http://www.romantika.sk/" title="Server vöetk˝ch zaæ˙ben˝ch - chat, zozn·menie, obr·zky, prÌbehy, guestbook a veæa inÈho."  target="_blank" class="s2">Romantika.sk</a><br>
+					<a href="http://www.rande.cz/" title="Hled·nÌ partnera dle vaöich p¯edstav - v·ûnÈ sezn·menÌ... InteligentnÌ vyhled·v·nÌ partnera podle v·mi definovan˝ch kritÈriÌ."  target="_blank" class="s2">Rande.cz</a><br>
+					<a href="http://www.seznamka.cz/" title="Internetovsk· seznamka pro v·ûn· sezn·menÌ i flirt. JednoduchÈ vkl·d·nÌ, vtipy, komunikace po emailu, moûnost anonymnÌch inzer·t˘."  target="_blank" class="s2">Seznamka.cz</a><br>
+					<a href="http://www.xrande.cz/" title="Seznamka, On-line inzerce, zasÌl·nÌ inzer·t˘ mailem, indikace ICQ p¯ihl·öen˝ch uûivatel˘."  target="_blank" class="s2">X-rande</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Mobil&nbsp;</legend>
+					<a href="http://www.mobil.sk/" title="Vöetko o systÈme GSM na Slovensku."  target="_blank" class="s2">Mobil.sk</a><br>
+					<a href="http://mobil.startpage.cz/" title="PraktickÈ, uûitoËnÈ a zaujÌmavÈ inform·cie o mobiloch, ich cen·ch v okolit˝ch öt·toch, o mobilnej komunik·cii, log· a melÛdie."  target="_blank" class="s2">Mobil</a><br>
+					<a href="http://www.mobilcentrum.cz/" title="SÌù specializovan˝ch prodejen, centrum kvalitnÌch sluûeb a informacÌ o mobilnÌch telefonech a p¯ÌsluöenstvÌ, on-line obchod"  target="_blank" class="s2">Mobilcentrum</a><br>
+					<a href="http://www.mobilonline.cz/" title="Internetov· prodejna - mobilnÌ telefony, kompletnÌ sortiment Go, Twist, Oskarta, nabÌdka origin·lnÌho i neorigin·lnÌho p¯ÌsluöenstvÌ."  target="_blank" class="s2">Mobil OnLine</a><br>
+					<a href="http://www.mobilarna.cz/" title="Ze svÏta mobilnÌch telefon˘. ZpravodajstvÌ, informace, n·zory, bazar a obchod."  target="_blank" class="s2">Mobil·rna.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Kult˙ra&nbsp;</legend>
+					<a href="http://www.divadlo.sk" title="Prv· slovensk· divadeln· domÈna" target="_blank" class="s2">Divadlo.sk</a><br>
+					<a href="http://www.dejiny.sk" title="Virtu·lna z·kladÚa a sprievodca milovnÌkov histÛrie." target="_blank" class="s2">Dejiny</a><br>
+					<a href="http://www.zamky.sk" title="140 hradov, 205 kaötieæov, fotky" target="_blank" class="s2">Hrady, z·mky</a><br>
+					<a href="http://www.dodivadla.cz" title="SvÏt divadelnÌho fanouöka. DivadelnÌ server p¯in·öejÌcÌ dennÏ novinky a recenze." target="_blank" class="s2">Do divadla</a><br>
+					<a href="http://www.scena.cz" title="Programy divadel a divadelnÌch po¯ad˘ v »T a »Ro, periodikum, kam m˘ûete sami ps·t a soutÏûit, divadelnÌ kuchynÏ, rozhovory, ochotnÌci, divadelnÌ svÏt." target="_blank" class="s2">Scena.cz</a><br>
+					<a href="http://www.ticketpro.cz" title="Ticket PRO vstupenky." target="_blank" class="s2">Ticket PRO</a><br>
+			</fieldset>
+		</div>	
+	</div>	
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Inzercia&nbsp;</legend>
+					<a href="http://www.inzercia.sk" title="predaj, k˙pa, burza. Inzer·ty - reality, aut·, poËÌtaËe, telefÛny, pr·ca, zozn·menie,..." class="s2" target="_blank">Inzercia.sk</a><br>
+					<a href="http://inzercia.azet.sk" title="Inzer·ty s dopytom a ponukami v niekoæk˝ch kategÛri·ch: nehnuteænosti, aut·, knihy, n·bytok, elektro, poËÌtaËe a inÈ. Moûnosù pridania vlastnÈho inzer·tu." target="_blank" class="s2">AZet.sk - Inzercia</a><br>
+					<a href="http://www.avizo.sk" title="Najv‰ËöÌ inzertn˝ Ëasopis, moûnosù inzercie cez Internet." target="_blank" class="s2">AvÌzo</a><br>
+					<a href="http://www.bazar.cz" title="Zde koupÌte nebo prod·te cokoli." target="_blank" class="s2">Bazar.cz</a><br>
+					<a href="http://www.annonce.cz" title="Velk˝ inzertnÌ Ëasopis, tisk i Internet, vyhled·v·nÌ inzer·t˘, pod·v·nÌ inzer·t˘, kdo jsme my, kdo jste Vy." target="_blank" class="s2">ANNONCE</a><br>
+					<a href="http://www.inzerce.cz" title="InzertnÌ server. On-line inzerce zdarma." target="_blank" class="s2">Inzerce.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;N·boûenstvo&nbsp;</legend>
+					<a href="http://www.katnoviny.sk" title="InternetovÈ vydanie KatolÌckych novÌn." class="s2" target="_blank">Katnoviny.sk</a><br>
+					<a href="http://www.koinonia.sk/" title="Komunita J·n Krstiteæ." target="_blank" class="s2">Koinonia.sk</a><br>
+					<a href="http://www.cssr.sk" title="My, Redemptoristi, sme rehoænÈ spoloËenstvo a ûijeme a pracujeme ako rehoænÌ kÚazi a bratia. Meno naöej rehoænej spoloËnosti poch·dza z latinskÈho slova Redemptor ñ Vykupiteæ." target="_blank" class="s2">Redemptoristi</a><br>
+					<a href="http://www.cssr.sk/rieka/" title="Rieka ûivota misijnÈ spoloËenstvo pri kl·ötore Redemptoristov v PodolÌnci." target="_blank" class="s2">Rieka ûivota</a><br>
+					<a href="http://www.misie.sk/" title="Misie - informacn˝ port·l o misi·ch, mision·roch a dobrovolnÌkoch v misi·ch." target="_blank" class="s2">Misie.sk</a><br>
+					<a href="http://www.christ-net.sk/" title="Slovensk˝ kresùansk˝ port·l." target="_blank" class="s2">Christ-net</a><br>
+					<a href="http://www.upcke.rcc.sk/" title="Str·nky UniverzitnÈho pastoraËnÈho centra v Koöiciach." target="_blank" class="s2">UPC Koöice</a><br>
+			</fieldset>
+		</div>	
+	</div>		
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Zamestnanie&nbsp;</legend>
+					<a href="http://www.ejob.sk" target="_blank" title="Job server öpecializovan˝ na zamestnanie v oblasti IT a telekomunik·ciÌ." class="s2">eJob.sk</a><br>
+					<a href="http://www.profesia.sk" target="_blank" title="PracovnÈ ponuky, voænÈ miesta, CV, ûivotopisy - vöetko v online datab·ze." class="s2">Profesia.sk</a><br>
+					<a href="http://www.ponuky.sk" target="_blank" title="Bezplatn· inzercia v rubrik·ch Pr·cu pon˙ka, Pr·cu hæad·, zahraniËnÈ pracovnÈ ponuky, brig·dy, ponuky person·lnych agent˙r." class="s2">Ponuky pr·ce</a><br>
+					<a href="http://kariera.zoznam.sk" target="_blank" title="PracovnÈ ponuky, voænÈ miesta, CV, ûivotopisy." class="s2">KariÈra</a><br>
+					<a href="http://www.joblist.cz" target="_blank" title="Bezplatn· on-line inzerce pracovnÌch p¯ÌleûitostÌ. Pro personalisty moûnost zasÌl·nÌ ûivotopis˘ e-mailem." class="s2">JOBlist.cz</a><br>
+					<a href="http://www.ponukaprace.com/" target="_blank" title="Ponuka pr·ce - sprostredkovanie zamestnania" class="s2">Ponukaprace.com</a><br>
+					<a href="http://www.prace.cz" target="_blank" title="Port·l trhu pr·ce - prace.cz - p¯ehled o situaci na trhu pr·ce v »R. NabÌdky pr·ce. Moûnost inzerce." class="s2">Prace.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>		
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Film&nbsp;</legend>
+					<a href="http://www.funserver.sk" title="port·l zo sveta showbiznisu pln˝ denne aktualizovan˝ch inform·cii o hudbe, filme, TV programoch, knih·ch a poËÌtaËov˝ch hr·ch" target="_blank" class="s2">Funserver</a><br>
+					<a href="http://www.kinema.sk" title="Denne aktualizovanÈ novinky, recenzie, preview, profily, udalosti a inÈ zaujÌmavosti." target="_blank" class="s2">Kinema</a><br>
+					<a href="http://www.kultura.sk" title="Denne aktualizovan· on-line datab·za kult˙rnych podujatÌ - film, divadlo, galÈrie a podobne." target="_blank" class="s2">Kultura.sk</a><br>
+					<a href="http://www.film.sk" title="UrËenÈ vöetk˝m milovnÌkom filmu, ktorÌ si chc˙ nieËo preËÌtaù o ich obæ˙ben˝ch dielkach a rozË˙liù sa nad t˝m, Ëo o nich napÌöeme my." target="_blank" class="s2">Film.sk</a><br>
+					<a href="http://www.biograf.cz" title="»esk˝ filmov˝ server. FilmovÈ premiÈry, aktuality, praûsk˝ kulturnÌ p¯ehled FAN - program kin a klub˘, rozhovory s osobnostmi svÏta filmu, ofici·lnÌ ûeb¯ÌËek n·vötÏvnosti film˘ Unie filmov˝ch distributor˘." target="_blank" class="s2">Biograf</a><br>
+					<a href="http://www.dokina.cz" title="SvÏt filmovÈho fanouöka - ZasÌl·nÌ aktu·lnÌch program˘ kin z mnoha mÏst »eskÈ republiky do e-mailovÈ schr·nky. RovnÏû dennÌ zpravodajstvÌ, recenze a zajÌmavosti ze svÏta kinematografie a filmu." target="_blank" class="s2">Do kina</a><br>
+			</fieldset>
+		</div>	
+	</div>		
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Obchody&nbsp;</legend>
+					<a href="http://www.dunaj.sk" title="NavötÌvte najv‰Ëöie virtu·lne knÌhkupectvo na Slovensku. Moment·lne pon˙kame okolo 6000 titulov vöetk˝ch û·nrov od viac ako 300 vydavateæov." target="_blank" class="s2">Dunaj</a><br>
+					<a href="http://www.cdshop.sk" title="Najv‰ËöÌ oline obchod s CD, videom, DVD, CD-ROM, PC hrami a hrami pre PLAYSTATION na slovenskom Internete." target="_blank" class="s2">CD Shop.sk</a><br>
+					<a href="http://www.quelle.sk" title="Z·sielkov˝ obchod, zasielanie katalÛgov, objedn·vanie tovaru z katalÛgov cez internet, z·kaznÌcky servis, s˙ùaûe, ankety." target="_blank" class="s2">Quelle s.r.o.</a><br>
+					<a href="http://www.amazon.cz" title="»esk˝ amazon, Agentura ModrÈ str·nky, on-line obchod, knihy, multimÈdia, CD-ROM, DVD, hry, audio, video." target="_blank" class="s2">Amazon.cz</a><br>
+					<a href="http://www.shop.cz" title="Virtu·lnÌ obchodnÌ d˘m - vÌce jak 18000 druh˘ zboûÌ drûeno skladem a okamûitÏ odesl·no (elektro, knihy, hudba, video, foto, hraËky, hodiny, cyklo...)." target="_blank" class="s2">Shop.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>			
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;PoËasie&nbsp;</legend>
+					<a href="http://www.meteo.sk" title="PredpoveÔ poËasia pre 10 slovensk˝ch miest na Ôaæöie 4 dni." target="_blank" class="s2">Meteo.sk</a><br>
+					<a href="http://www.shmu.sk" title="MeteorologickÈ inform·cie, predpovede poËasia atÔ." target="_blank" class="s2">SHMU</a><br>
+					<a href="http://www.chmi.cz" title="Data a informace z oblasti meteorologie, hydrologie a ochrany Ëistoty ovzduöÌ." target="_blank" class="s2">»HMU</a><br>
+					<a href="http://www.meteopress.cz" title="P¯edpovÏÔ poËasÌ." target="_blank" class="s2">Meteopress</a><br>
+			</fieldset>
+		</div>	
+	</div>		
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;äport&nbsp;</legend>
+					<a href="http://www.sport-news.sk" title="KaûdodennÈ aktualizovanÈ novinky zo sveta öportu." target="_blank" class="s2">Sport-news</a><br>
+					<a href="http://www.sportcentral.sk" title="Slovensk˝ öportov˝ server." target="_blank" class="s2">Sportcentral</a><br>
+					<a href="http://www.sportal.sk" title="Slovensk˝ öportov˝ port·l - br·na do öportu." target="_blank" class="s2">äport·l</a><br>
+					<a href="http://www.brankybody.cz" title="Informace o sportu, sportovnÌ kluby, moænost tipov·nÌ v˝sledk˘ sportovnÌch utk·nÌ." target="_blank" class="s2">Branky-body.cz</a><br>
+					<a href="http://www.sportweb.cz" title="Aktu·lnÌ pr˘bÏænÈ zpravodajstvÌ ze sportu z domova i ze svÏta." target="_blank" class="s2">Sportweb</a><br>
+			</fieldset>
+		</div>	
+	</div>		
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;TV a radi·&nbsp;</legend>
+					<a href="http://www.ina-tv.sk" title="AlternatÌvny televÌzny kan·l. Prv· televÌzia v b˝valom »esko-slovensku, ktor· je öpecializovan· na z·bavu." target="_blank" class="s2">In· televÌzia</a><br>
+					<a href="http://www.markiza.sk" title="Str·nky televÌzie MarkÌza." target="_blank" class="s2">MarkÌza</a><br>
+					<a href="http://www.stv.sk" title="Str·nky Slovenskej televÌzie." target="_blank" class="s2">STV.sk</a><br>
+					<a href="http://www.tv-web.cz" title="Nestihli jste nebo nevidÏli jste nejnovÏjöÌ zpr·vy v televizi, nevadÌ, uloûili jsme je zde pro V·s ve formÏ On-Line videa." target="_blank" class="s2">TV-Web</a><br>
+					<a href="http://www.czech-tv.cz" title="Ofici·lnÌ str·nka »T." target="_blank" class="s2">»esk· televize</a><br>
+					<a href="http://www.radia.cz" title="Co se dÏje v Èteru, zpr·vy, poslechovost, str·nky r·diÌ." target="_blank" class="s2">Radia.cz</a><br>
+					<a href="http://www.radia.sk" title="KomplexnÈ mapovanie slovenskÈho rozhlasovÈho Èteru na vln·ch FM." target="_blank" class="s2">Radia.sk</a><br>
+			</fieldset>
+		</div>	
+	</div>		
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Cestovanie&nbsp;</legend>
+					<a href="http://www.limba.sk" title="Cestovanie a ubytovanie na Slovensku - chaty, hotely, chalupy, penziÛny online." target="_blank" class="s2">Limba</a><br>
+					<a href="http://www.infosys.sk" title="Virtu·lny sprievodca po Slovensku - reötaur·cie, hotely, diskotÈky atÔ." target="_blank" class="s2">Infosys.sk</a><br>
+					<a href="http://www.walker.sk" title="Web pre cestovateæov. Cestopisy, ambas·dy, zdravie na cest·ch, pl·novan˝ autostop, n·stenka, inzercia a veæa dalöÌch informacÌ." target="_blank" class="s2">Walker.sk</a><br>
+					<a href="http://www.skrz.sk" title="Cestovateæsk˝ port·l. Inform·cie o krajin·ch, cestopisy, turistickÈ rady na cesty." target="_blank" class="s2">Skrz Naskrz</a><br>
+					<a href="http://www.cestujeme.cz" title="NejöiröÌ nabÌdka z·jezd˘ do celÈho svÏta, lyûov·nÌ, silvestr, ubytov·nÌ v »R." target="_blank" class="s2">Cestujeme.cz</a><br>
+					<a href="http://www.vandrak.cz" title="Cestov·nÌ po svÏtÏ, rady, poznatky, zkuöenosti." target="_blank" class="s2">Vandr·k.cz</a>
+			</fieldset>
+		</div>	
+	</div>		
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Auto-moto&nbsp;</legend>
+					<a href="http://www.autovia.sk" title="Chcete k˙pit auto? Sk˙ste AUTOVIA.SK" target="_blank" class="s2">Autovia</a><br>
+					<a href="http://www.autoburza.sk" title="K˙pa, predaj auto-moto. Svet automobilov na Internete." target="_blank" class="s2">Autoburza</a><br>
+					<a href="http://www.bezpokut.sk" title="Chcete vediet kde sa meria rychlost ?" target="_blank" class="s2">Bez pok˙t</a><br>
+					<a href="http://www.tipcars.com" title="Ponuky autosalÛnov a autobaz·rov." target="_blank" class="s2">TipCars</a><br>
+					<a href="http://www.auto.cz" title="Automobilov˝ port·l - vöe o autech na jednom mÌstÏ" target="_blank" class="s2">Auto</a><br>
+					<a href="http://www.aaaautopraha.cz" title="Autobazar. Kaûd˝ den 1000 provÏ¯en˝ch voz˘ vöech znaËek a typ˘ na prodej" target="_blank" class="s2">Aaa auto Praha</a><br>
+					<a href="http://www.autokatalog.cz" title="Seznam, katalog automobil˘ prod·van˝ch v »eskÈ republice." target="_blank" class="s2">AutokatalÛg</a><br>
+			</fieldset>
+		</div>	
+	</div>			
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Pohæadnice&nbsp;</legend>
+					<a href="http://www.pohladnice.sk" title="ZvukovÈ, papierovÈ, animovanÈ, virtu·lne pohæadnice, SMS obr·zky, log·, zvonenia" target="_blank" class="s2">Pohæadnice.sk</a><br>
+					<a href="http://www.pohladnice.zoznam.sk" title="InternetovÈ pohæadnice" target="_blank" class="s2">Zoznam.Pohæadnice</a><br>
+					<a href="http://www.pohladnice.post.sk" title="Pri pohæadniciach od POSTu nemusÌte platiù za zn·mku!" target="_blank" class="s2">Pohladnice.Post</a><br>
+					<a href="http://www.virp.sk" title="Virtu·lne obr·zkovÈ pohæadnice so zvukom cez INTERNET." target="_blank" class="s2">Virtu·lne pohæadnice</a><br>
+					<a href="http://www.pohlednice.cz" title="ElektronickÈ pohlednice, posÌl·nÌ v Internetu, deset kategoriÌ, stovky pohlednic, top-ten pohlednice." target="_blank" class="s2">Pohlednice.cz</a><br>
+					<a href="http://www.albi.cz" title="Elektronick· p¯·nÌËka k r˘zn˝m p¯Ìleûitostem, vËetnÏ flash animacÌ od distributora p¯·nÌ do ob·lky." target="_blank" class="s2">Albi</a><br>
+			</fieldset>
+		</div>	
+	</div>		
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Vzdel·vanie&nbsp;</legend>
+					<a href="http://edu.mudrc.sk" target="_blank" title="Abeceda vysok˝ch ökÙl SR." class="s2">VysokÈ ökoly</a><br>
+					<a href="http://www.referaty.sk" target="_blank" title="Refer·ty a ËitateæskÈ dennÌky." class="s2">Referaty.sk</a><br>
+					<a href="http://www.tahak.sk" target="_blank" title="Stovky refer·tov. Super datab·za inform·ciÌ pre ötudentov." class="s2">Tahak.sk</a><br>
+					<a href="http://www.hiedu.cz" target="_blank" title="Adres·¯ st¯ednÌch ökol v »R (s moûnostÌ ˙pravy ˙daj˘)." class="s2">St¯ednÌ ökoly</a><br>
+					<a href="http://www.vysokeskoly.cz" target="_blank" title="RozcestnÌk na Vä, univerzity a fakulty, vyhled·vaË studijnÌch obor˘ v »R." class="s2">VysokÈ ökoly</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Pre ûeny&nbsp;</legend>
+					<a href="http://www.zenska.sk" title="Internetov˝ port·l o ûen·ch a pre ûeny." target="_blank" class="s2">éensk·</a><br>
+					<a href="http://www.femina.sk" title="Internetov˝ Ëasopis pre ûeny. Kr·sa, varenie, zdravie, b˝vanie, show biznis, fÛrum, inzer·ty." target="_blank" class="s2">Femina</a><br>
+					<a href="http://www.ty.sk" title="Denne aktualizovanÈ, rady pre telo, viz·û, öt˝l, mÛda, zdravie, gyneporadÚa, muûi, rodina a deti, kariÈra, cestovanie, nakupovanie, koktail, diskusia a zoznamka." class="s2" target="_blank">Ty.sk</a><br>
+					<a href="http://www.lady.sk" title="MÛda,öt˝l,v˝ûiva a kr·sa." target="_blank" class="s2">Lady</a><br>
+					<a href="http://www.salon.cz" title="ExkluzÌvny internetov˝ Ëasopis pre ûeny." target="_blank" class="s2">Salon.cz</a><br>
+					<a href="http://www.zena.cz" title="Rozs·hl˝ server zamÏ¯en˝ v˝hradnÏ na ûeny." target="_blank" class="s2">éena.cz</a><br>
+					<a href="http://www.victorie.cz" title="Internetov˝ magazÌn pro ûeny, kter˝ v·m p¯in·öÌ kaûd˝ den novÈ rady, n·vody a post¯ehy ze vöech oblastÌ, kterÈ ûeny zajÌmajÌ." target="_blank" class="s2">Victorie.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Financie&nbsp;</legend>
+					<a href="http://www.financnik.sk" title="ekonomika, financie, peniaze, v˝poËty, anal˝zy a spravodajstvo" class="s2">FinanËnÌk.sk</a><br>
+					<a href="http://www.openiazoch.sk" target="_blank" title="finanËnÈ centrum slovenskÈho internetu - V·ö prehæadn˝, zrozumiteæn˝ a nez·visl˝ sprievodca svetom osobn˝ch financiÌ." class="s2">oPeniazoch.sk</a><br>
+					<a href="http://www.eliot.sk/eliot.html" target="_blank" title="Prv· elektronick· banka na Slovensku." class="s2">Eliot</a><br>
+					<a href="http://www.finance.cz" target="_blank" title="Nez·visl˝ informaËnÌ a poradensk˝ server o firemnÌch a rodinn˝ch financÌch." class="s2">Finance.cz</a><br>
+					<a href="http://www.dane.cz" target="_blank" title="vöe o danÌch na Internetu, novinky, Ël·nky, literatura, seznamy daÚov˝ch poradc˘, daÚov· poradna, diskuznÌ skupiny, encyklopedie, v˝poËty, vzdÏl·v·nÌ, Ëesky." class="s2">DanÏ.cz</a><br>
+					<a href="http://www.penize.cz" target="_blank" title="FinanËnÌ centrum. To, co chcete vÏdÏt o financÌch." class="s2">PenÌze.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>	
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Vl·da a öt·t&nbsp;</legend>
+					<a href="http://gov.mudrc.sk" target="_blank" title="Abeceda vl·dnych a öt·tnych inötit˙ciÌ SR." class="s2">Mudrc.sk</a><br>
+					<a href="http://www.matica.sk" target="_blank" title="Matica slovensk·." class="s2">Matica slovensk·</a><br>
+					<a href="http://www.statnisprava.cz" target="_blank" title="ministerstva, ˙¯ady pr·ce, mÏsta, obce, krajskÈ, okresnÌ, finanËnÌ, katastr·lnÌ, celnÌ, ökolskÈ ˙¯ady, soudy, st·tnÌ zastupitelstvÌ, dopravnÌ inspektor·ty, spr·va soci·lnÌho zabezpeËenÌ (OSSZ), hygienickÈ stanice, veterin·rnÌ spr·va." class="s2">St·tnÌ spr·va</a><br>
+					<a href="http://www.ochrance.cz" target="_blank" title="Na naöich str·nk·ch se dozvÌte, jak se obracet na ve¯ejnÈho ochr·nce pr·v, jakÈ je posl·nÌ ombudsmana, jak˝ch institucÌ se m˘ûe stÌûnost t˝kat" class="s2">Ochrance</a><br>
+					<a href="http://www.senat.cz" target="_blank" title="Sen·t Parlamentu »eskÈ republiky -  organizaËnÌ struktura, seznamy, dotazy a odpovÏdi." class="s2">Sen·t</a><br>
+					<a href="http://www.vlada.cz" target="_blank" title="Abeceda vl·dnÌch a st·tnÌch institucÌ - Datab·ze st·tnÌch a vl·dnÌch institucÌ zahrnuje ministerstva, st·tnÌ ˙¯ady, zkuöebny a jinÈ organizace." class="s2">Mudrc.cz</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Z·kon a pr·vo&nbsp;</legend>
+					<a href="http://www.zbierka.sk" target="_blank" title="Denne aktualizovan· verzia zbierky spracovan· z origin·lnych podkladov MS SR a aktualizovanÈ znenia vybrat˝ch predpisov." class="s2">Zbierka z·konov SR</a><br>
+					<a href="http://www.i-poradca.sk" target="_blank" title="Vydavateæstvo ekonomickej a pr·vnej literat˙ry, poradenstvo pre podnikateæov a vöetk˝ch, ktorÌ potrebuj˙ poradiù." class="s2">Poradca</a><br>
+					<a href="http://www.bpp.sk" target="_blank" title="poskytovanie bezplatnej pr·vnej pomoci" class="s2">bpp.sk</a><br>
+					<a href="http://www.clever.sk" target="_blank" title="popis moment·lne platn˝ch z·konov v SR." class="s2">Clever</a><br>
+					<a href="http://www.vzory.cz" target="_blank" title="Vzory smluv, dohod, n·vrh˘, ûalob, û·dostÌ z r˘zn˝ch oblastÌ ûivota. ObËanskÈ, obchodnÌ, pracovnÌ pr·vo, rozhodËÌ ¯ÌzenÌ Vöe zdarma." class="s2">Vzory.cz</a><br>
+					<a href="http://www.ipravnik.cz" target="_blank" title="O paragrafech a lidech pro kaûdÈho." class="s2">iPr·vnÌk</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Veda a technika&nbsp;</legend>
+					<a href="http://www.science.sk" title="Novinky z viacer˝ch oblastÌ vedy a techniky (astrnÛmia, technolÛgia, histÛria, medicÌna a zaujÌmavosti aj z in˝ch oblastÌ) a diskusn˝ priestor." target="_blank" class="s2">Science.sk</a><br>
+					<a href="http://scitech.5d.sk" title="Denne aktualizovanÈ str·nky o vede a nov˝ch technolÛgi·ch. " target="_blank" class="s2">Scitech.5D</a><br>
+					<a href="http://www.energia.sk" title="Port·l zameran˝ na ˙spory energiÌ, spr·vy z energetiky." target="_blank" class="s2">Energia.sk</a><br>
+					<a href="http://www.technet.cz" title="SvÏt techniky, seznam, hledaË, zpr·vy, Internet." target="_blank" class="s2">TechNet</a><br>
+					<a href="http://www.zem.sk" title="Str·nky rel·cie Zem." target="_blank" class="s2">Zem.sk</a><br>
+			</fieldset>
+		</div>	
+	</div>	
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Zdravie&nbsp;</legend>
+					<a href="http://www.fajcenie.sk" target="_blank" title="NefajËiarska zÛna: pomÙûeme V·m vst˙più!" class="s2">Fajcenie.sk</a><br>
+					<a href="http://www.ockovanie.sk" target="_blank" title="Infor·mcie o tom, ako sa oËkovanÌm br·niù pred chorobami." class="s2">OËkovanie</a><br>
+					<a href="http://www.medical.cz" target="_blank" title="ZdravotnictvÌ, informace, prezentace, oöet¯ovatelstvÌ, d·rcovstvÌ krve, zdravotnÌ pojiöùovny." class="s2">Medical.cz</a><br>
+					<a href="http://www.zdravezuby.cz" target="_blank" title="Str·nky podporujÌ celoploön˝ preventivnÌ ökolnÌ program zubnÌho zdravÌ ZdravÈ zuby." class="s2">ZdravÈ zuby</a><br>
+			</fieldset>
+		</div>	
+	</div>	
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Recepty&nbsp;</legend>
+					<a href="http://www.recepty.sk" title="Recepty slovenskej a medzin·rodnej kuchyne." target="_blank" class="s2">Recepty.sk</a><br>
+					<a href="http://www.receptar.sk" title="Viac ako 3333 receptov na varenie. Recepty na prÌpravu m‰sa, bezm‰sitÈ jedl·, jedl· cudzokrajnej kuchyne." target="_blank" class="s2">Recept·r</a><br>
+					<a href="http://www.gastrocity.cz" title="Veöker· gastronomie »eskÈ republiky pod jednou st¯echou." target="_blank" class="s2">Gastrocity.cz</a><br>
+					<a href="http://www.cukrar.cz" title="InformaËnÌ cukr·¯sk˝ server obsahujÌcÌ aktu·lnÌ informace z cukr·¯skÈho odvÏtvÌ." target="_blank" class="s2">»esk˝ cukr·¯</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;RÙzne&nbsp;</legend>
+					<a href="http://www.svadba.sk" title=".: svadba.sk :. .: vöetko o jednej z najdÙleûitejöÌch kriûovatiek ûivota" target="_blank" class="s2">Svadba.sk</a><br>
+			</fieldset>
+		</div>	
+	</div>
+	<div class="obrazok"  style="width:170px">
+		<div>
+			<fieldset lang="sk" class="textmain" style="width:160px">
+				<legend class="oznamNazov">&nbsp;Dom·ce&nbsp;</legend>
+					<a href="http://www.plechotice.sk/sully" target="_blank" title="Domovsk· str·nka Ivana ätefka" class="s2">sully</a><br>
+					<a href="http://www.plechotice.sk/kyselinka" target="_blank" title="Domovsk· str·nka ºudky Vagaöovej" class="s2">kyselinka</a>
+			</fieldset>
+		</div>	
+	</div>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td align="center">
+			<fieldset lang="sk" class="textmain" style="width:400">
+				<legend class="oznamNazov">&nbsp;Pridaj svoju adresu&nbsp;</legend>
+				<form action="?menu=7" name="formAdresa" method="post" style="margin-top:0px">
+					<table cellpadding="0" cellspacing="0" border="0" width="400">
+						<tr>
+							<td class="textmain">Adresa:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Popis/sekcia:</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="Text" name="adresa" style="width:150px" onFocus="this.style.background='#FFFFFF'; this.style.color='#000000'" onBlur="this.style.background='#FcFcFc'; this.style.color='#000000'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="Text" name="popis" style="width:200px" onFocus="this.style.background='#FFFFFF'; this.style.color='#000000'" onBlur="this.style.background='#FcFcFc'; this.style.color='#000000'">&nbsp;&nbsp;&nbsp;<input type="Submit" value="Poöli" style="background:#D6E0F5;color:#003399" onmouseover="this.style.background='#6285df';this.style.color='#FFFFFF'" onmouseout="this.style.background='#D6E0F5';this.style.color='#003399'">
+								<?
+									if ($posielamAdresu){
+										if(isset($HTTP_X_FORWARDED_FOR))
+								  	  $REMOTE_ADDR=$HTTP_X_FORWARDED_FOR;
+									  $ip = $REMOTE_ADDR;
+										$to = "webmaster@plechotice.sk";
+										$date = date("d.m.Y   H:i:s");
+										$body = "Adresa: " . $adresa . "  Popis: " . $popis;
+										$body .= "\n\n-------------------------------------------------------------------\nInform·cie o odosielateæovi:\nIP adresa: " . $ip . "\nD·tum a Ëas odoslania: " . $date . "";
+										@mail($to,"Adresa zo stranky www.plechotice.sk",$body,"From: Webmaster");
+									}
+								?>
+							</td>
+						</tr>
+					</table>
+					<input type="Hidden" name="posielamAdresu" value="1">
+				</form>
+			</fieldset>
+		</td>
+	</tr>
+</table>
+<br>
+
