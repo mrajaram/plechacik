@@ -1,0 +1,450 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #C5D4F4;
+	SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-ARROW-COLOR: #003399;
+	SCROLLBAR-TRACK-COLOR: #FFFFFF;
+	scrollbar-shadow-color: #003399;
+	scrollbar-3dlight-color: #003399;
+	scrollbar-darkshadow-color: #FFFFFF;
+}
+
+INPUT,SELECT,TEXTAREA {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: black;
+	background-color: #FcFcFc;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #003399;
+	padding-left: 3px;
+}
+
+td.border {
+	border: 1px solid #003399;
+}
+
+.vedla_seba {
+	display: inline;
+}
+
+.copyrights {
+	font-family: verdana, arial, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: black;
+	font-weight: normal;
+	border: 1px solid #003399;
+}
+
+.small {
+	font-size: 3px;
+}
+
+.odpad {
+	font-family: verdana, arial, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: black;
+	font-weight: normal;
+	border: 1px solid #6285DF;
+}
+
+.copyrightslink {
+	font-family: verdana, arial, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #1B45ED;
+	text-decoration: none;
+}
+
+a.copyrightslink:hover {
+	text-decoration: none;
+}
+
+.textmain, #idSportDiv table {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: black;
+	font-weight: normal;
+	text-align: justify;
+	padding: 5px 8px 5px 8px;
+	line-height: 14.5px;
+	text-decoration: none;
+}
+
+a.textmain {
+	color: black;
+	text-decoration: none;
+}
+
+a.textmain:hover {
+	color: brown;
+	text-decoration: underline;
+}
+
+.texttable {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: White;
+	font-weight: bold;
+	text-align: left;
+	padding: 5px 5px 5px 8px;
+	line-height: 18px;
+	vertical-align: text-top;
+}
+
+.anketa {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	color: White;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px 8px 5px 5px;
+	line-height: 16px;
+	vertical-align: text-top;
+}
+
+.odpovede {
+	font-family: verdana, arial, sans-serif;
+	font-size: 11px;
+	color: White;
+	font-weight: normal;
+	text-align: left;
+	vertical-align: text-top;
+	margin: 5px;
+}
+
+a.odpovede {
+	text-decoration: none;
+}
+
+a.odpovede:hover {
+	color: #FF9933;
+	text-decoration: none;
+}
+
+.cisla {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: Black;
+	font-weight: bold;
+	vertical-align: top;
+	text-decoration: none;
+}
+
+a.cisla:hover {
+	color: #FF9933;
+}
+
+.link {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #003399;
+	font-weight: normal;
+	vertical-align: top;
+	text-decoration: none;
+}
+
+a.link:hover {
+	color: #FF9938;
+}
+
+.send {
+	font-family: verdana, arial, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: White;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	vertical-align: bottom;
+}
+
+a.send:hover {
+	color: #FF9933;
+}
+
+.aktuality {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: black;
+	text-decoration: none;
+	text-align: justify;
+	font-weight: normal;
+	vertical-align: bottom;
+	border: 1px solid #6F95E6;
+	padding-left: 5px; 
+	padding-right: 5px; 
+}
+
+a.aktuality:hover {
+	color: brown;
+	text-decoration: none;
+}
+
+.menu {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: White;
+	text-decoration: none;
+	font-weight: bold;
+	/*	padding: 5px 5px 2px;*/
+	vertical-align: top;
+}
+
+a.menu:hover {
+	color: #FF9933;
+}
+
+.oznamNazov {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #003399;
+	text-align: left;
+	font-weight: bold;
+}
+
+a.oznamNazov {
+	text-decoration: none;
+}
+
+a.oznamNazov:hover {
+	color: #FF9933;
+	text-decoration: none;
+}
+
+.legenda {
+	border: 1px solid #6F95E6;
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #003399;
+	text-align: left;
+	font-weight: bold;
+}
+
+.faraMenu {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #003399;
+	font-weight: bold;
+	text-decoration: none;
+	vertical-align: top;
+}
+
+a.faraMeu {
+	text-decoration: none;
+}
+
+a.faraMenu:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.nazov {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #FF9933;
+	text-align: left;
+	font-weight: bold;
+	padding: 1px 5px;
+	vertical-align: middle;
+}
+
+.poll {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.s2 {
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	padding: 5px 5px 5px 5px;
+	font-style: normal;
+	color: black;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a.s2 {
+	color: #003399;
+}
+
+a.s2:hover {
+	color: #6285DF;
+}
+
+.galeria .obrazok {
+	width: 170px;
+	height: 140px;
+	float: left;
+}
+
+.galeria .obrazok div {
+	text-align: center;
+}
+
+a.button,a.button:visited {
+	font: bold 12px verdana, arial, sans-serif;;
+	color: #003399;
+	width: 180px;
+	height: 20px;
+	cursor: hand;
+	text-decoration: none;
+	background: #D6E0F5;
+	text-align: left;
+	padding-left: 10px;
+	margin-left: 10px;  
+}
+
+a.button:hover {
+	border: 1px solid #003399;
+}
+
+a.gallery,a.gallery:visited {
+	font: bold 12px Arial, sans-serif;
+	color: #003399;
+	border: 1px solid #003399;
+	width: 120px;
+	height: 20px;
+	cursor: hand;
+	padding: 1px;
+	text-decoration: none;
+	background: #DCE5F8;
+	text-align: center;
+}
+
+a.gallery:hover {
+	font: bold 12px Arial, sans-serif;
+	color: red;
+	border: 1px solid red;
+	width: 120px;
+	height: 20px;
+	cursor: hand;
+	padding: 1px;
+	text-decoration: none;
+	background: #DCE5F8;
+	text-align: center;
+}
+
+/* date picker css */
+.dpDiv {
+	
+}
+
+/* the table (within the div) that holds the date picker calendar */
+.dpTable {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	color: #505050;
+	background-color: #ece9d8;
+	border: 1px solid #AAAAAA;
+}
+
+/* a table row that holds date numbers (either blank or 1-31) */
+.dpTR {
+	
+}
+
+/* the top table row that holds the month, year, and forward/backward buttons */
+.dpTitleTR {
+	
+}
+
+/* the second table row, that holds the names of days of the week (Mo, Tu, We, etc.) */
+.dpDayTR {
+	
+}
+
+/* the bottom table row, that has the "This Month" and "Close" buttons */
+.dpTodayButtonTR {
+	
+}
+
+/* a table cell that holds a date number (either blank or 1-31) */
+.dpTD {
+	border: 1px solid #ece9d8;
+}
+
+/* a table cell that holds a highlighted day (usually either today's date or the current date field value) */
+.dpDayHighlightTD {
+	background-color: #CCCCCC;
+	border: 1px solid #AAAAAA;
+}
+
+/* the date number table cell that the mouse pointer is currently over (you can use contrasting colors to make it apparent which cell is being hovered over) */
+.dpTDHover {
+	background-color: #aca998;
+	border: 1px solid #888888;
+	cursor: pointer;
+	color: red;
+}
+
+/* the table cell that holds the name of the month and the year */
+.dpTitleTD {
+	
+}
+
+/* a table cell that holds one of the forward/backward buttons */
+.dpButtonTD {
+	
+}
+
+/* the table cell that holds the "This Month" or "Close" button at the bottom */
+.dpTodayButtonTD {
+	
+}
+
+/* a table cell that holds the names of days of the week (Mo, Tu, We, etc.) */
+.dpDayTD {
+	background-color: #CCCCCC;
+	border: 1px solid #AAAAAA;
+	color: white;
+}
+
+/* additional style information for the text that indicates the month and year */
+.dpTitleText {
+	font-size: 12px;
+	color: gray;
+	font-weight: bold;
+}
+
+/* additional style information for the cell that holds a highlighted day (usually either today's date or the current date field value) */
+.dpDayHighlight {
+	color: 4060ff;
+	font-weight: bold;
+}
+
+/* the forward/backward buttons at the top */
+.dpButton {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: gray;
+	background: #d8e8ff;
+	font-weight: bold;
+	padding: 0px;
+}
+
+/* the "This Month" and "Close" buttons at the bottom */
+.dpTodayButton {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: gray;
+	background: #d8e8ff;
+	font-weight: bold;
+}
