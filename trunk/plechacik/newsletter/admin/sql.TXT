@@ -1,0 +1,13 @@
+CREATE TABLE newsletter (
+   id int(11) NOT NULL auto_increment,
+   fname varchar(100) NOT NULL,
+   name varchar(100) NOT NULL,
+   address varchar(100) NOT NULL,
+   zip varchar(10) NOT NULL,
+   city varchar(100) NOT NULL,
+   email varchar(100) NOT NULL,
+   uid varchar(50) NOT NULL,
+   send int(1) DEFAULT '1' NOT NULL,
+   PRIMARY KEY (id),
+   UNIQUE email (email, uid)
+);
