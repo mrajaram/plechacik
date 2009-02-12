@@ -1,0 +1,53 @@
+CREATE TABLE english_svk (
+   request varchar(200),
+   counter int(11),
+   pom int(11)
+);
+
+CREATE TABLE french_svk (
+   request varchar(200),
+   counter int(11),
+   pom int(11)
+);
+
+CREATE TABLE german_svk (
+   request varchar(200),
+   counter int(11),
+   pom int(11)
+);
+
+CREATE TABLE italian_svk (
+   request varchar(200),
+   counter int(11),
+   pom int(11)
+);
+
+CREATE TABLE spanish_svk (
+   request varchar(200),
+   counter int(11),
+   pom int(11)
+);
+
+CREATE TABLE slovak_other (
+   request varchar(200),
+   counter int(11),
+   pom int(11)
+);
+
+CREATE TABLE update_stat (
+   datum date,
+   counter_tran int(11) DEFAULT '0' NOT NULL,
+   counter_stat int(11) DEFAULT '0' NOT NULL
+);
+
+
+CREATE TABLE info_stat (
+   slovicko varchar(200),
+   ipecka varchar(16),
+   datum date DEFAULT '0000-00-00' NOT NULL,
+   cas time DEFAULT '00:00:00' NOT NULL,
+   pom int(11)
+);
+
+
+

@@ -1,0 +1,7 @@
+<form>
+<label for="jmeno" accesskey="j">Jméno:</label>
+<input type="text" name="jmeno" id="jmeno">
+</form> 
+
+
+http://www.interval.cz/discussion-read.asp?id=322&content=select - iso..

@@ -1,0 +1,2 @@
+pre update_stat
+INSERT INTO update_stat (datum, counter_tran, counter_stat) VALUES ('2003-05-05', 1, 1)

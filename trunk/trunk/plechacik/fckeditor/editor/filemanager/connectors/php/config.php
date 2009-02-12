@@ -31,7 +31,7 @@ $Config['Enabled'] = true ;
 
 
 // Path to user files relative to the document root.
-$Config['UserFilesPath'] = '/plechacik/userfiles/' ;
+$Config['UserFilesPath'] = '/tmp/' ;
 
 // Fill the following value it you prefer to specify the absolute path for the
 // user files directory. Useful if you are using a virtual directory, symbolic
