@@ -36,7 +36,7 @@ if (in_array($ipaddress, $arr_spam)){
 ?>
 <body bottommargin="0" leftmargin="0" topmargin="0" rightmargin="0" marginheight="0" marginwidth="0" onload="JavaScript:preload()" bgcolor="#ffffff">
 
-<div id="textInLoad" style="position:absolute;top:50%;left:42%"></div><script language=javascript>textInLoad.innerHTML="<DIV style='border:1px solid black;background-color:#E8EDFA;padding:10px;position:absolute;top:50%;left:36%;font-family:verdana;font-size:8pt'><center><b style='font-weight:bold;font-size:7pt;'>Plechotice.sk</b><br>Str·nka&nbsp;sa&nbsp;naËÌtava&nbsp;...<br><img src=./imgs/loading.gif></center></div>"</script>
+<div id="textInLoad" style="position:absolute;top:50%;left:42%"></div><script language=javascript>textInLoad.innerHTML="<DIV style='border:1px solid black;background-color:#E8EDFA;padding:10px;position:absolute;top:50%;left:36%;font-family:verdana;font-size:8pt'><center><b style='font-weight:bold;font-size:7pt;'>Plechotice.sk</b><br>Str√°nka&nbsp;sa&nbsp;naƒç√≠tava&nbsp;...<br><img src=./imgs/loading.gif></center></div>"</script>
 
 <!-- hlavna tabulka - jeden riadok/jeden stlpec - zaciatok -->
 <table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
@@ -59,27 +59,27 @@ if (in_array($ipaddress, $arr_spam)){
 							<tr>
 								<td background="./imgs/back_table.gif" width="176" height="*" valign="top">
 									<span class="small"><br><br></span>&nbsp;&nbsp;<? echo colorArrow(0); ?>&nbsp;<a href="?menu=0" class="menu">Domov</a>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(6); ?>&nbsp;<a href="?menu=6" class="menu">Futbalov˝ klub</a>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(6); ?>&nbsp;<a href="?menu=6" class="menu">Futbalov√Ω klub</a>
 <!-- 									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(8); ?>&nbsp;<a href="?menu=8" class="menu">Statisticke udaje</a> -->
 									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(12); ?>&nbsp;<a href="?menu=12" class="menu">Mapa umiestnenia</a>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(17); ?>&nbsp;<a href="?menu=17" class="menu">Leteck· snÌmka</a>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(9); ?>&nbsp;<a href="?menu=9" class="menu">FotogalÈria</a>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(17); ?>&nbsp;<a href="?menu=17" class="menu">Leteck√° sn√≠mka</a>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(9); ?>&nbsp;<a href="?menu=9" class="menu">Fotogal√©ria</a>
 									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(111); ?>&nbsp;<a href="http://www.plechotice.sk/chat/" class="menu" target="_blank">Chat</a>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(14); ?>&nbsp;<a href="?menu=14" class="menu">DÙleûitÈ kontakty</a>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(18); ?>&nbsp;<a href="http://www.zsplechotice.edupage.org" class="menu" target="_blank">äkola(y)</a>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(19); ?>&nbsp;<a href="http://www.ruskov.net/" class="menu" target="_blank">Internetov· sieù</a>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(14); ?>&nbsp;<a href="?menu=14" class="menu">D√¥le≈æit√© kontakty</a>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(18); ?>&nbsp;<a href="http://www.zsplechotice.edupage.org" class="menu" target="_blank">≈†kola(y)</a>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(19); ?>&nbsp;<a href="http://www.ruskov.net/" class="menu" target="_blank">Internetov√° sie≈•</a>
 									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(16); ?>&nbsp;<a href="?menu=16" class="menu">Spoje</a>
 									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(15); ?>&nbsp;<a href="?menu=15" class="menu">Divadlo</a>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(10); ?>&nbsp;<a href="?menu=10" class="menu">Samospr·va</a>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(10); ?>&nbsp;<a href="?menu=10" class="menu">Samospr√°va</a>
 							<tr>
 								<td background="./imgs/back_table.gif" align="center" width="176" height="*"><span class="small"><br><br></span><img src="./imgs/ciara_menu.gif"><span class="small"><br><br></span></td>
 							</tr>
 							<tr>
 								<td background="./imgs/back_table.gif" width="176" height="*">
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(7); ?>&nbsp;<a href="?menu=7" class="menu">ZaujÌmavÈ www</a>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(7); ?>&nbsp;<a href="?menu=7" class="menu">Zauj√≠mav√© www</a>
 									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(13); ?>&nbsp;<a href="?menu=13" class="menu">Spravodajstvo</a>
 									<? if (control_ip("intranet") || control_ip("admin")){ ?>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(11); ?>&nbsp;<a href="JavaScript:showTranslator('650','370')" class="menu">SlovnÌk</a><span class="small"><br><br></span>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(11); ?>&nbsp;<a href="JavaScript:showTranslator('650','370')" class="menu">Slovn√≠k</a><span class="small"><br><br></span>
 									<? } ?>
 								</td>
 							</tr>
@@ -92,7 +92,7 @@ if (in_array($ipaddress, $arr_spam)){
 								<td width="176" height="30"><img src="./imgs/info.gif"></td>
 							</tr>
 							<tr>
-								<td background="./imgs/back_table.gif" width="176" height="100" class="texttable"><? echo "Dnes je " . datumik(); ?><br>Meniny m·: <?echo "<i>" . meniny(date("n"), date("j")) . "</i>";?><br><br><div class="send"><a href="http://www.pohladnice.sk" class="send" title="Poöli pohæadnicu" target="_blank">poöli <? echo slovko(meniny(date("n"), date("j"))); ?> pohæadnicu</a></div></td>
+								<td background="./imgs/back_table.gif" width="176" height="100" class="texttable"><? echo "Dnes je " . datumik(); ?><br>Meniny m√°: <?echo "<i>" . meniny(date("n"), date("j")) . "</i>";?><br><br><div class="send"><a href="http://www.pohladnice.sk" class="send" title="Po≈°li pohƒæadnicu" target="_blank">po≈°li <? echo slovko(meniny(date("n"), date("j"))); ?> pohƒæadnicu</a></div></td>
 							</tr>
 							<tr>
 								<td width="176"><img src="./imgs/bottom_table.gif"><br><br></td>
