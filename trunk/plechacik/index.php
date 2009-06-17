@@ -1,12 +1,13 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
+	<meta name="verify-v1" content="PkZiNOVTKpQkozO0EgbgZNXrAtNpsGR4mfYOHFIE+/Y=" >
 	<title>Obec Plechotice</title>
 <META HTTP-Equiv="Content-Type" Content="text/html; charset=windows-1250">
 <META HTTP-EQUIV='author' CONTENT='projected by Ivan Stefko'>
 <META HTTP-EQUIV='Keywords' CONTENT='plechotice, trebisov, obec, novy ruskov, internet, sully'>
 <META HTTP-EQUIV='copyright' CONTENT='(c) 2003, Plechotice'>
-<META HTTP-EQUIV='Reply-to' CONTENT='webmaster@plechotice.sk'> 
+<META HTTP-EQUIV='Reply-to' CONTENT='webmaster@plechotice.sk'>
 <LINK REL="stylesheet" TYPE="text/css" HREF="./plechacik.css">
 <script language="JavaScript">
 function showTranslator(width, height)
@@ -28,7 +29,7 @@ require_once("./common.php");
 $arr_spam = array("10.10.10.246");
 
 if (in_array($ipaddress, $arr_spam)){
-	echo "Tvoje prispevky v knihe navstev porusili kodex etickeho spravania. Pristup na tuto stranku ti bude zamietnuty!"; 
+	echo "Tvoje prispevky v knihe navstev porusili kodex etickeho spravania. Pristup na tuto stranku ti bude zamietnuty!";
 	echo "<br/><br/>";
 	exit;
 }
@@ -108,7 +109,7 @@ if (in_array($ipaddress, $arr_spam)){
 							<tr>
 								<td width="176"><img src="./imgs/bottom_table.gif"><br><br></td>
 							</tr>
-						</table> 
+						</table>
 						<table cellpadding="0" cellspacing="0" border="0" width="176">
 							<tr>
 								<td width="176" height="30"><img src="./imgs/lista_odpad.gif"></td>
@@ -119,7 +120,7 @@ if (in_array($ipaddress, $arr_spam)){
 							<tr>
 								<td width="176"><img src="./imgs/bottom_table.gif"><br><br></td>
 							</tr>
-						</table> 
+						</table>
 					</td>
 				</tr>
 			</table>
@@ -131,7 +132,7 @@ echo "<td width=\"*\" valign=\"top\">";
 
 	switch ($menu){
 		case 0: $fn = "body_uvod.php"; break;
-		case 1: $fn = "body_history.php"; break; 
+		case 1: $fn = "body_history.php"; break;
 		case 2: $fn = "body_oznamy.php"; break;
 		case 3: $fn = "body_fara.php"; break;
 		case 4: $fn = "body_gb.php"; break;
@@ -163,7 +164,7 @@ echo "</td>";
 
 	</td>
 </tr>
-<tr>	
+<tr>
 	<td height="17" width="100%">
 <?
 require_once("./bottom.php");
