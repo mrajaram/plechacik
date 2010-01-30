@@ -20,7 +20,7 @@
 		<td class="textmain">Hlavná 39/70, 075 01, Plechotice</td>
 	</tr>
 </table>
-<br>		
+<br>
 <table cellpadding="5" cellspacing="0" border="2" align="center" width="320" bgcolor="#DFEBF9" bordercolor="#ffffff" class="textmain" style="font-size:11px;">
 	<tr>
 		<td align="center" bgcolor="#A4B8EC"><b>Rok založenia</b></td>
@@ -37,18 +37,18 @@
 	<tr>
 		<td align="center" bgcolor="#A4B8EC"><b>Kapacita h¾adiska</b></td>
 		<td align="center">1 000, z toho 150 na sedenie</td>
-	</tr>                       			
-   
+	</tr>
+
 </table>
 <br>
 <table cellpadding="5" cellspacing="0" border="2" align="center" width="320" bgcolor="#DFEBF9" bordercolor="#ffffff" class="textmain" style="font-size:11px;">
 	<tr>
 		<td align="center" bgcolor="#A4B8EC"><b>Prezident</b></td>
-		<td align="center"><b>Milan Pálfi</b></td>
+		<td align="center"><b>Marián Manasil</b></td>
 	</tr>
 	<tr>
 		<td align="center" bgcolor="#A4B8EC"><b>Tajomník</b></td>
-		<td align="center">Štefan Pálfi</td>
+		<td align="center">Gabriel Dandár</td>
 	</tr>
 	<tr>
 		<td align="center" bgcolor="#A4B8EC"><b>Hospodár</b></td>
@@ -63,8 +63,20 @@
 		<td align="center">Jozef Novák</td>
 	</tr>
 	<tr>
+		<td align="center" bgcolor="#A4B8EC"><b>Èlen predstavenstva</b></td>
+		<td align="center">Milan Pálfi</td>
+	</tr>
+	<tr>
+		<td align="center" bgcolor="#A4B8EC"><b>Èlen predstavenstva</b></td>
+		<td align="center">Jozef Sokol</td>
+	</tr>
+	<tr>
+		<td align="center" bgcolor="#A4B8EC"><b>Èlen predstavenstva</b></td>
+		<td align="center">Štefan Vojtek</td>
+	</tr>
+	<tr>
 		<td align="center" bgcolor="#A4B8EC"><b>Vedúci "A"</b></td>
-		<td align="center">Ján Baranyi</td>
+		<td align="center">Jaroslav Leško, Július Kandráè</td>
 	</tr>
 	<tr>
 		<td align="center" bgcolor="#A4B8EC"><b>Vedúci mládeže</b></td>
@@ -73,17 +85,17 @@
 </table>
 <br>
 
-<? } else { 
-	
+<? } else {
+
 	//------------- db connection ---------------------
 	$stmt = "select * from futbalovy_klub where id =" . $submenu;
 	if (@!($result = mysql_query($stmt, $link))){
-		echo "error during selectio from futbalovy_klub \n stmt: " . $stmt; 
+		echo "error during selectio from futbalovy_klub \n stmt: " . $stmt;
 		exit;
 	}
 	$row = mysql_fetch_object($result);
 	//-------------------------------------------------
-	
-	echo "<div id=\"idSportDiv\" class=\"textmain\">$row->content</div>"; 
+
+	echo "<div id=\"idSportDiv\" class=\"textmain\">$row->content</div>";
 
 } ?>

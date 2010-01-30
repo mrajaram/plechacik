@@ -77,11 +77,8 @@ if (in_array($ipaddress, $arr_spam)){
 							</tr>
 							<tr>
 								<td background="./imgs/back_table.gif" width="176" height="*">
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(7); ?>&nbsp;<a href="?menu=7" class="menu">Zaujímavé www</a>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(13); ?>&nbsp;<a href="?menu=13" class="menu">Spravodajstvo</a>
-									<? if (control_ip("intranet") || control_ip("admin")){ ?>
-									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(11); ?>&nbsp;<a href="JavaScript:showTranslator('650','370')" class="menu">Slovník</a><span class="small"><br><br></span>
-									<? } ?>
+									<span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(7); ?>&nbsp;<a href="?menu=7" class="menu">Podnikatelia</a>
+									<!-- span class="small"><br></span>&nbsp;&nbsp;<? echo colorArrow(13); ?>&nbsp;<a href="?menu=13" class="menu">Spravodajstvo</a -->
 								</td>
 							</tr>
 							<tr>
