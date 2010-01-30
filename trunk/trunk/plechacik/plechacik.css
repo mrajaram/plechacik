@@ -180,8 +180,8 @@ a.send:hover {
 	font-weight: normal;
 	vertical-align: bottom;
 	border: 1px solid #6F95E6;
-	padding-left: 5px; 
-	padding-right: 5px; 
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 a.aktuality:hover {
@@ -204,7 +204,7 @@ a.menu:hover {
 	color: #FF9933;
 }
 
-.oznamNazov {
+.oznamNazov, .podnikatel {
 	font-family: verdana, arial, sans-serif;
 	font-size: 12px;
 	font-style: normal;
@@ -213,11 +213,15 @@ a.menu:hover {
 	font-weight: bold;
 }
 
-a.oznamNazov {
+.podnikatel {
+	line-height: 25px;
+}
+
+a.oznamNazov, a.podnikatel {
 	text-decoration: none;
 }
 
-a.oznamNazov:hover {
+a.oznamNazov:hover, a.podnikatel:hover {
 	color: #FF9933;
 	text-decoration: none;
 }
@@ -309,7 +313,7 @@ a.button {
 	background: #D6E0F5;
 	text-align: left;
 	padding-left: 10px;
-	margin-left: 10px; 
+	margin-left: 10px;
 	position: absolute;
 }
 
@@ -345,7 +349,7 @@ a.gallery:hover {
 
 /* date picker css */
 .dpDiv {
-	
+
 }
 
 /* the table (within the div) that holds the date picker calendar */
@@ -360,22 +364,22 @@ a.gallery:hover {
 
 /* a table row that holds date numbers (either blank or 1-31) */
 .dpTR {
-	
+
 }
 
 /* the top table row that holds the month, year, and forward/backward buttons */
 .dpTitleTR {
-	
+
 }
 
 /* the second table row, that holds the names of days of the week (Mo, Tu, We, etc.) */
 .dpDayTR {
-	
+
 }
 
 /* the bottom table row, that has the "This Month" and "Close" buttons */
 .dpTodayButtonTR {
-	
+
 }
 
 /* a table cell that holds a date number (either blank or 1-31) */
@@ -399,17 +403,17 @@ a.gallery:hover {
 
 /* the table cell that holds the name of the month and the year */
 .dpTitleTD {
-	
+
 }
 
 /* a table cell that holds one of the forward/backward buttons */
 .dpButtonTD {
-	
+
 }
 
 /* the table cell that holds the "This Month" or "Close" button at the bottom */
 .dpTodayButtonTD {
-	
+
 }
 
 /* a table cell that holds the names of days of the week (Mo, Tu, We, etc.) */
