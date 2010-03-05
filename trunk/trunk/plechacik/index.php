@@ -1,3 +1,18 @@
+<?
+//-------- admin autorizacia -----
+session_start();
+require("./src/auth.php");
+if(isset($login) && isset($session_password)) {
+  $sessionMainLogIn = FALSE;
+  session_register("login_details");
+  if($login_details = authUser($login, $session_password)) {
+    session_register("sessionMainLogIn");
+    $sessionMainLogIn = $login;
+  }
+  Header("Location: $PHP_SELF");
+}
+//---------------------------------
+?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>

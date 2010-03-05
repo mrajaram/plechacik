@@ -1,15 +1,4 @@
 <?php
-//common.php
-
-/*
-$dnes = getdate();  
-$mesiac = $dnes['month'];  
-$mday = $dnes['mday'];  
-$rok = $dnes['year'];  
-echo "$mesiac $mday, $rok"; 
-
-*/
-
 $okej_ip = array("100.10.10.177","127.0.0.1");
 
 if(isset($HTTP_X_FORWARDED_FOR)) $REMOTE_ADDR=$HTTP_X_FORWARDED_FOR;
@@ -21,7 +10,7 @@ if(isset($HTTP_X_FORWARDED_FOR)) $REMOTE_ADDR=$HTTP_X_FORWARDED_FOR;
 	}else{
 		$ipaddress = $ipaddress;
 	}
-//--------------------------------------------------------	
+//--------------------------------------------------------
 
 //	$host = GetHostByADDR($ipaddress);
 //	echo $host;
@@ -32,7 +21,7 @@ if(isset($HTTP_X_FORWARDED_FOR)) $REMOTE_ADDR=$HTTP_X_FORWARDED_FOR;
 //-------------------------    PREVOD DATUMIKU - ZACIATOK   ---------------------------
 function modifyDate($date){
 	ereg('^([0-9]{4})\-([0-9]{1,2})\-([0-9]{1,2})$', $date, $datumik);
-	
+
 	switch ($datumik[2]) {
   case 1: $month = "január"; break;
   case 2: $month = "február"; break;
@@ -47,7 +36,7 @@ function modifyDate($date){
   case 11: $month = "november"; break;
   case 12: $month = "december"; break;
 	}
-	
+
 	$date =  "$datumik[3]. $month $datumik[1]";
 	return $date;
 }
@@ -952,7 +941,7 @@ function return_privilege($privilege){
 function del_user($login, $id, $meno){
 	if ($login != "admin")
 		$prikaz = "<a href=\"?action=5&delete=1&id=" . $id . "\"><img src=\"../imgs/delete.gif\" border=\"0\" title=\"Zmazat uzivatela: " . $meno . "\"></a>";
-	else 
+	else
 		$prikaz = "&nbsp;&nbsp;";
 	return $prikaz;
 }
@@ -997,13 +986,13 @@ function miesto_omsa($den){
 	if (@!($result = mysql_query($stmt, $link))){
 		echo "Chyba pri connecte na SQL server";	exit;
 	}
-	
+
 	$pocet = mysql_num_rows($result);
 	if ($pocet == 0) {
 		$miesto = "-";
 		return $miesto;
 	}
-	
+
 	$i = 1;
 	while ($row = mysql_fetch_object($result)){
 		switch ($row->miesto) {
@@ -1028,20 +1017,20 @@ function cas_omsa($den){
 	if (@!($result = mysql_query($stmt, $link))){
 		echo "Chyba pri connecte na SQL server";	exit;
 	}
-	
+
 	$pocet = mysql_num_rows($result);
 	if ($pocet == 0) {
 		$cas = "-";
 		return $cas;
 	}
-	
+
 	$i = 1;
 	while ($row = mysql_fetch_object($result)){
 		switch ($row->miesto) {
 			case 1 : $mz_cas = "<b>" . $row->cas . "</b>"; break;
 			default : $mz_cas = $row->cas;
 		}
-	
+
 		if ($i == 1) {
 			$cas = $mz_cas;
 		} else {
@@ -1090,7 +1079,7 @@ function check_www($text){
 	$text =	eregi_replace("^www.", "http://www.",$text);
 	$text =	eregi_replace("[[:space:]]+www.", " http://www.",$text);
 	$text = eregi_replace("[[:alpha:]]+://[^<>[:space:]]+[[:alnum:]/]", "<a href=\"\\0\" target=\"_blank\" class=\"text_main\" title=\"\\0\">\\0</a>", $text);
-	return $text; 
+	return $text;
 }
 
 ?>
