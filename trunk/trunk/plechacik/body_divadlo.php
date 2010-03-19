@@ -7,6 +7,7 @@
 		<td width="84" height="30" background="./imgs/main_lista_right.gif"><img src="./imgs/blank.gif"></td>
 	</tr>
 </table>
+
 <!-- koniec hornej listy -->
 <!-- zaciatok pre body -->
 <table cellpadding="0" cellspacing="0" border="0" width="95%" align="center">
